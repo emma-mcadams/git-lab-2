@@ -14,7 +14,7 @@ using namespace std;
 
 int main(int argc, char const *argv[]) {
 
-   cout << "Hey Bitch" << endl;
+   cout << "Hey There" << endl;
    
     return 0;
 }// main
